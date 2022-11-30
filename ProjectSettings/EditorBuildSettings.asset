@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Examen.unity
+    guid: 9c428b53326d6964c9a1235f59c6cc84
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 4b7bbac21eebb9b45ab6559c3e26f948
   m_configObjects: {}
